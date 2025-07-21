@@ -1,7 +1,7 @@
 import discord
 from discord.ext import commands
 
-TOKEN = 'MTM4MjE3MzE5Mjc4OTE2NDE3Mw.GGGNiU.Nz4s1mUPlnIh_NVZ-NtbN9Oho4L35Fo2oQQX2U'
+TOKEN = 'token aq'
 TARGET_USER_ID = 890768957374615573 # ID do usuário que você quer limpar 
 
 intents = discord.Intents.default()
